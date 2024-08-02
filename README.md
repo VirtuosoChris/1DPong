@@ -4,7 +4,7 @@ This game was made as a C++ program with OpenGL2 for a 7 day experimental gamepl
 
 ![image](https://github.com/user-attachments/assets/cfeb2711-f347-4969-a757-4b12668f4328)
 
-The game obviously suits the minimalist theme being 1D Pong.  A friend and I had an in-joke where we'd play "1D Pong" with some of the lab equipment, the absurdity being that no one could win.  My challenge was coming up with a win condition while keeping the gameplay 1-dimensional, plus the show-off irony of doing a 3D game with 1D gameplay.
+The game obviously suits the minimalist theme being 1D Pong.  A friend and I had an in-joke where we'd play "1D Pong" with some piece of the lab equipment (linear air track?), the absurdity being that no one could win.  My challenge was coming up with a win condition while keeping the gameplay 1-dimensional, plus the show-off irony of doing a 3D game with 1D gameplay.
 
 I got a nice review of the game in my inbox, which was the first time I'd gotten any kind of feedback on a game I'd made from a stranger:
 ![image](https://github.com/user-attachments/assets/cb6cf7b4-626c-431e-b92a-993121ab0ec0)
