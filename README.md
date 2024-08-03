@@ -1,5 +1,7 @@
 # 1DPong
 
+Repo status: Not buildable as-is
+
 This game was made as a C++ program with OpenGL2 for a 7 day experimental gameplay jam (theme "minimalism") in 2009.
 
 ![image](https://github.com/user-attachments/assets/cfeb2711-f347-4969-a757-4b12668f4328)
